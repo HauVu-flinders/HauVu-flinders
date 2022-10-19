@@ -7,6 +7,3 @@ now I'm studying Master of IT at Flinders University.
 I am passionate about software development so I've been spending a lot of time teaching myself programming skills. 
 Also, I'm proud to be an apprentice software developer of Udacity 😁
 
-HauVu-flinders/HauVu-flinders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
