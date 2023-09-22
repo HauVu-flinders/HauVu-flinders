@@ -1,4 +1,4 @@
-- 👋** Hi there! I’m Hana**
+- 👋** Hi there! I’m Sally**
 - 🔭 I’m currently building a landing page that uses JavaScript to create an interactive navigational experience for user 
 - 🌱 I’m teaching myself HTML, CSS, JavaScript and web development. After I am good at JavaScript I am going to learn React framework. 
 - 💞️ I love to create pretty things, such as latte art and websites 
