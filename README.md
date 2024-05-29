@@ -1,8 +1,7 @@
 - 👋** Hi there! I’m Sally**
-- 🔭 The technologies I work with are HTML, CSS, JavaScript, React, NodeJS and web development.  
-- 💞️ I love to create pretty things, such as latte art and websites 
-- ⚡ Fun fact: I studied public health in Vietnam, I moved to Australia to work as a barista and customer service to save money to study in Australia, 
-now I am an IT graduate from Flinders University.
-I am passionate about software development so I've been spending a lot of time teaching myself programming skills. 
+- 🔭 The technologies I work with are HTML, CSS, JavaScript, React, NodeJS, .NET and web development.  
+- 💞️ I love to create pretty and useful things
+- ⚡ Fun fact: I studied public health in Vietnam, then I moved to Australia to study coding and now I am a full-stack software developer
+- I am passionate about software development so I've been spending a lot of time teaching myself programming and tech skills. 
 
 
